@@ -1,0 +1,11 @@
+C:\Users\pkeis\source\repos\ZbW.SoftwareEngineering\PetManager\PetManager\bin\Debug\PetManager.exe.config
+C:\Users\pkeis\source\repos\ZbW.SoftwareEngineering\PetManager\PetManager\bin\Debug\PetManager.exe
+C:\Users\pkeis\source\repos\ZbW.SoftwareEngineering\PetManager\PetManager\bin\Debug\PetManager.pdb
+C:\Users\pkeis\source\repos\ZbW.SoftwareEngineering\PetManager\PetManager\obj\Debug\PetManager.csprojResolveAssemblyReference.cache
+C:\Users\pkeis\source\repos\ZbW.SoftwareEngineering\PetManager\PetManager\obj\Debug\PetManager.PetManagerForm.resources
+C:\Users\pkeis\source\repos\ZbW.SoftwareEngineering\PetManager\PetManager\obj\Debug\PetManager.Properties.Resources.resources
+C:\Users\pkeis\source\repos\ZbW.SoftwareEngineering\PetManager\PetManager\obj\Debug\PetManager.StatisticForm.resources
+C:\Users\pkeis\source\repos\ZbW.SoftwareEngineering\PetManager\PetManager\obj\Debug\PetManager.csproj.GenerateResource.cache
+C:\Users\pkeis\source\repos\ZbW.SoftwareEngineering\PetManager\PetManager\obj\Debug\PetManager.csproj.CoreCompileInputs.cache
+C:\Users\pkeis\source\repos\ZbW.SoftwareEngineering\PetManager\PetManager\obj\Debug\PetManager.exe
+C:\Users\pkeis\source\repos\ZbW.SoftwareEngineering\PetManager\PetManager\obj\Debug\PetManager.pdb
