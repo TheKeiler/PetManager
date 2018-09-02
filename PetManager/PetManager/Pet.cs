@@ -22,7 +22,20 @@ namespace PetManager {
             int hash = 33;
             hash = hash * 12 + (this.Name != null ? this.Name.GetHashCode() : 0);
             hash = hash * 12 + (this.Breed != null ? this.Breed.GetHashCode() : 0);
+            hash = hash * 12 + (this.Birthday != null ? this.Birthday.GetHashCode() : 0);
             return hash;
+        }
+
+        public override bool Equals(object obj)
+        {
+            if (!(obj is Pet))
+            {
+                return object.Equals(obj, this);
+            }
+
+            var pet = (Pet) obj;
+            return Birthday.Equals(pet.Birthday) && string.Equals(this.Name, pet.Name) &&
+                   string.Equals(this.Breed, pet.Breed);
         }
     }
 }
